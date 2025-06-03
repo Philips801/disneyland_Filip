@@ -1,8 +1,9 @@
 # main.py
-#This is Philips
+#This is week
 # Starts the program, loads data, shows menus and acts on your choices.
 
 import tui
+
 import process
 import visual
 
@@ -75,3 +76,4 @@ def handle_visual_menu(reviews):
 
 if __name__ == '__main__':
     main()
+
