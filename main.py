@@ -1,5 +1,5 @@
 # main.py
-#This is change for work
+#This is daylife
 # Starts the program, loads data, shows menus and acts on your choices.
 
 import tui
